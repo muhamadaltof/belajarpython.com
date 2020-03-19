@@ -48,7 +48,6 @@ Saat anda menjalankan script diatas, Anda akan melihat output berupa `Hello Worl
 > [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/komentar-python.md)
 
 <div class="row navigation-tutorial">
-    <div class="col-md-6 prev-tutorial">
         <a href="/tutorial/hello-world-python"><i class="fas fa-arrow-circle-left"></i>Hello World Python</a>
     </div>
     <div class="col-md-6 next-tutorial">
